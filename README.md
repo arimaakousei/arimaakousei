@@ -13,15 +13,15 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NischalSingana&show_icons=true&theme=tokyonight" alt="stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=tokyonight" alt="streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhagyaviVangapandu&show_icons=true&theme=tokyonight" alt="stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagyaviVangapandu&theme=tokyonight" alt="streak" height="170"/>
 </p>
 
 ---
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NischalSingana&layout=compact&theme=tokyonight&langs_count=8" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaviVangapandu&layout=compact&theme=tokyonight&langs_count=8" alt="languages"/>
 </p>
 
 ---
