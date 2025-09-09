@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nischal Singana</h1>
+<h1 align="center">Hi 👋, I'm Bhagyavi Vangapandu</h1>
 <h3 align="center">💻 B.Tech CSE Student | 🌐 Web Development Enthusiast | 🚀 Open Source Explorer</h3>
 
 ---
