@@ -1,51 +1,62 @@
 <h1 align="center">Hi 👋, I'm Bhagyavi Vangapandu</h1>
-<h3 align="center">💻 B.Tech CSE Student | 🌐 Web Development Enthusiast | 🚀 Open Source Explorer</h3>
+<h3 align="center">B.Tech CSE Student | Web Developer | Open Source Learner</h3>
 
----
-
-### 🚀 About Me
-- 🎓 Currently pursuing **Computer Science Engineering**  
-- 🌱 Learning **Full Stack Web Development**  
-- 💡 Passionate about **Open Source & Problem Solving**  
-- ⚡ Fun fact: I love building projects that help others ✨  
-
----
-
-### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arimaakousei&show_icons=true&theme=tokyonight" alt="stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaakousei&theme=tokyonight" alt="streak" height="170"/>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔥 Most Used Languages
+## 🚀 About Me
+- 🎓 B.Tech Computer Science Engineering student  
+- 💻 Learning **Full Stack Web Development**
+- 🌱 Exploring **Open Source & Problem Solving**
+- ✨ I love building projects that solve real-world problems
+- 🎯 Goal: Become a skilled software engineer
+
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaakousei&layout=compact&theme=tokyonight&langs_count=8" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:bhagyavi.vangapandu07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhagyavi-vangapandu-15a407334">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/whom_so.evr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=arimakousei&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimakousei&theme=tokyonight" />
 </p>
 
 ---
 
-### ⚡ Fun Section
-- 🏆 Total Contributions: **132+**  
-- 🔥 Longest Streak: **10 days**  
-- 📅 Current Streak: **1 day**  
+## 🌐 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimakousei&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Don’t forget to star my repositories if you find them useful!* 😄
+## 📌 Featured Projects
+- 🔹 **Web Development Projects**
+- 🔹 **College Lab Programs**
+- 🔹 **Mini Projects using Java & Python**
+
+👉 Check my repositories to see my work!
+
+---
+
+## 🎯 Fun Facts
+- 🔥 Contributions: 130+  
+- ⚡ Longest Streak: 10 days  
+- 🌟 Always curious to learn something new  
+
+---
+
+⭐ *If you like my work, don’t forget to star my repositories!* 😄
