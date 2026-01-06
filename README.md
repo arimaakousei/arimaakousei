@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhagyavi Vangapandu</h1>
-<h3 align="center">B.Tech CSE Student | Web Developer | Open Source Learner</h3>
+<h3 align="center">B.Tech CSE Student | Web Developer | </h3>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="bhagyavivangapandu07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bhagyavi-vangapandu-15a407334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 </p>
 
 ---
@@ -27,18 +27,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arimakousei&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arimaakousei&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimakousei&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaakousei&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimakousei&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaakousei&layout=compact&theme=tokyonight" />
 </p>
 
 ---
